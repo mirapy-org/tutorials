@@ -6,11 +6,11 @@ This repository contains tutorials with examples on how to use [MiraPy](https://
 
 Following are the tutorials on using MiraPy:
 
-- Astronomical Image Reconstruction using Autoencoder
+- Astronomical Image Reconstruction using Autoencoder ([Dataset](https://github.com/mirapy-org/messier-catalog-images/tree/master/data))
 - Classification of variable stars in ATLAS catalog
-- X-Ray Binary Classification
-- HTRU1 Pulsar Dataset Image Classification using Convolutional Neural Network
-- [Playing with Sunspotter Dataset (Regression models, feature reduction, unsupervised clustering and visualization)](https://github.com/swapsha96/socis/blob/master/Playing%20with%20Sunspotter%20Dataset.ipynb)
+- X-Ray Binary Classification ([Dataset](https://github.com/mirapy-org/mirapy/tree/master/mirapy/dataset/XRayBinary))
+- HTRU1 Pulsar Dataset Image Classification using Convolutional Neural Network ([Dataset](http://www.jb.man.ac.uk/research/ascaife/htru1-batches-py.tar.gz))
+- Playing with Sunspotter Dataset ([Dataset](https://zenodo.org/record/1478966))
 
 Notebooks for the following will be added soon:
 
